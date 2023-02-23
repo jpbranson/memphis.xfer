@@ -68,12 +68,12 @@ df <- content(file_struct_res, as = "text") %>%
   as_list() %>%
   tibble::as_tibble() %>%
   unnest(cols = everything()) %>%
-  unnest_wider(col = response) %>%
+  unnest_wider(col = response, names_sep = "") %>%
   unnest(cols = everything()) %>%
   unnest(cols = everything()) %>%
-  filter(!is.na(FileName))
+  filter(!is.na(responseFileName))
 
-
+colnames(df) <- colnames(df) %>% str_replace_all("response", "")
 
 dir_file_info <- function(path, login_res) {
   if(str_detect(path, "Disposition") | str_detect(path, "Health")) {
@@ -98,11 +98,13 @@ dir_file_info <- function(path, login_res) {
     as_list() %>%
     tibble::as_tibble() %>%
     unnest(cols = everything()) %>%
-    unnest_wider(col = response) %>%
+    unnest_wider(col = response, names_sep = "") %>%
     unnest(cols = everything()) %>%
     unnest(cols = everything())  %>%
-    filter(!is.na(FileName)) %>%
+    filter(!is.na(responseFileName)) %>%
     mutate(across(everything(), as.character))
+
+  colnames(file_info) <- colnames(file_info) %>% str_replace_all("response", "")
 
   return(file_info)
 }
