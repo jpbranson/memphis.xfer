@@ -1,0 +1,44 @@
+"Chancery Court","03232023","CH-23-0403","CASSANDRA ELLIS V DARRYL ELLIS","Pet/Enroll Foreign Judgment","CHAN","KYLE","JIM",
+"Chancery Court","03232023","CH-23-0403","CASSANDRA ELLIS V DARRYL ELLIS","Pet/Enroll Foreign Judgment","PT","Part 2",,
+"Chancery Court","03232023","CH-23-0403","CASSANDRA ELLIS V DARRYL ELLIS","Pet/Enroll Foreign Judgment","ATTY","BREECE","COREY","A"
+"Chancery Court","03232023","CH-23-0403","CASSANDRA ELLIS V DARRYL ELLIS","Pet/Enroll Foreign Judgment","PLTF","ELLIS","CASSANDRA",
+"Chancery Court","03232023","CH-23-0403","CASSANDRA ELLIS V DARRYL ELLIS","Pet/Enroll Foreign Judgment","DEFT","ELLIS","DARRYL",
+"Chancery Court","03232023","CH-23-0404","SHERWOOD D BROWN V. ANGELA E BROWN","Divorce","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","03232023","CH-23-0405","YVETTE D WILLIAMS V DAVID WAITHAKA","Divorce","PATY","JABER","ICLEM",
+"Chancery Court","03232023","CH-23-0405","YVETTE D WILLIAMS V DAVID WAITHAKA","Divorce","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","03232023","CH-23-0405","YVETTE D WILLIAMS V DAVID WAITHAKA","Divorce","DEFT","WAITHAKA","DAVID",
+"Chancery Court","03232023","CH-23-0405","YVETTE D WILLIAMS V DAVID WAITHAKA","Divorce","PLTF","WILLIAMS","YVETTE","DA'SHAWN"
+"Chancery Court","03232023","CH-23-0406","TRUSTMARK NATIONAL BANK V WILLIE WELCH","Pet/Enroll Foreign Judgment","PETA","MASTERS","JONATHAN","S"
+"Chancery Court","03232023","CH-23-0406","TRUSTMARK NATIONAL BANK V WILLIE WELCH","Pet/Enroll Foreign Judgment","CHAN","KYLE","JIM",
+"Chancery Court","03232023","CH-23-0406","TRUSTMARK NATIONAL BANK V WILLIE WELCH","Pet/Enroll Foreign Judgment","PT","Part 2",,
+"Chancery Court","03232023","CH-23-0406","TRUSTMARK NATIONAL BANK V WILLIE WELCH","Pet/Enroll Foreign Judgment","PETR","TRUSTMARK NATIONAL BANK",,
+"Chancery Court","03232023","CH-23-0406","TRUSTMARK NATIONAL BANK V WILLIE WELCH","Pet/Enroll Foreign Judgment","RESP","WELCH","WILLIE",
+"Chancery Court","03232023","CH-23-0407","TD BANK NA V SAHARA LEWIS","Complaint for Damages","PATY","WALLER","CHARLES","D"
+"Chancery Court","03232023","CH-23-0407","TD BANK NA V SAHARA LEWIS","Complaint for Damages","PT","Part 1",,
+"Chancery Court","03232023","CH-23-0407","TD BANK NA V SAHARA LEWIS","Complaint for Damages","PLTF","TD BANK, N.A.",,
+"Chancery Court","03232023","CH-23-0407","TD BANK NA V SAHARA LEWIS","Complaint for Damages","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","03232023","CH-23-0407","TD BANK NA V SAHARA LEWIS","Complaint for Damages","DEFT","LEWIS","SAHARA",
+"Chancery Court","03232023","CH-23-0408","FIRST TOWER LOAN LLC V JOANNA WILLIAMS","Pet/Enroll Foreign Judgment","PT","Part 3",,
+"Chancery Court","03232023","CH-23-0408","FIRST TOWER LOAN LLC V JOANNA WILLIAMS","Pet/Enroll Foreign Judgment","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","03232023","CH-23-0408","FIRST TOWER LOAN LLC V JOANNA WILLIAMS","Pet/Enroll Foreign Judgment","PATY","SIMPSON","NATHAN","T"
+"Chancery Court","03232023","CH-23-0408","FIRST TOWER LOAN LLC V JOANNA WILLIAMS","Pet/Enroll Foreign Judgment","PLTF","FIRST TOWER LOAN LLC",,
+"Chancery Court","03232023","CH-23-0408","FIRST TOWER LOAN LLC V JOANNA WILLIAMS","Pet/Enroll Foreign Judgment","DEFT","WILLIAMS","JOANNA",
+"Chancery Court","03232023","CH-23-0409","GULFCO OF MISSISSIPPI LLC V CRYSTAL PILKINTON","Pet/Enroll Foreign Judgment","CHAN","KYLE","JIM",
+"Chancery Court","03232023","CH-23-0409","GULFCO OF MISSISSIPPI LLC V CRYSTAL PILKINTON","Pet/Enroll Foreign Judgment","PT","Part 2",,
+"Chancery Court","03232023","CH-23-0409","GULFCO OF MISSISSIPPI LLC V CRYSTAL PILKINTON","Pet/Enroll Foreign Judgment","PATY","SIMPSON","NATHAN","T"
+"Chancery Court","03232023","CH-23-0409","GULFCO OF MISSISSIPPI LLC V CRYSTAL PILKINTON","Pet/Enroll Foreign Judgment","PLTF","GULFCO OF MISSISSIPPI LLC",,
+"Chancery Court","03232023","CH-23-0409","GULFCO OF MISSISSIPPI LLC V CRYSTAL PILKINTON","Pet/Enroll Foreign Judgment","DEFT","PILKINTON","CRYSTAL",
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","PATY","JOHNSON","MONIKA","L"
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","DEFT","MAJOR","CURRIE",
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","DEFT","CURRIE","MAJOR",
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","DEFT","MJC CONSTRUCTION LLC",,
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","DEFT","WILLIAMS","MONIQUE",
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","PLTF","SMITH","KELVIN",
+"Chancery Court","03232023","CH-23-0410","KELVIN SMITH, ET AL V CURRIE MAJOR, ET AL","Pet/Quiet Title/Remove Cloud","PLTF","SMITH","GRACE",
+"Chancery Court","03232023","CH-23-0411","MICHAEL B TURLEY V DANIEL B TURLEY, ET AL","Comp/Declaratory Judgment","PATY","GOLWEN","JOHN","S"
+"Chancery Court","03232023","CH-23-0411","MICHAEL B TURLEY V DANIEL B TURLEY, ET AL","Comp/Declaratory Judgment","PATY","SMITH","BLAINE",
+"Chancery Court","03232023","CH-23-0411","MICHAEL B TURLEY V DANIEL B TURLEY, ET AL","Comp/Declaratory Judgment","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","03232023","CH-23-0411","MICHAEL B TURLEY V DANIEL B TURLEY, ET AL","Comp/Declaratory Judgment","DEFT","TURLEY","DANIEL","B."
+"Chancery Court","03232023","CH-23-0411","MICHAEL B TURLEY V DANIEL B TURLEY, ET AL","Comp/Declaratory Judgment","DEFT","TURLEY L.P.",,
+"Chancery Court","03232023","CH-23-0411","MICHAEL B TURLEY V DANIEL B TURLEY, ET AL","Comp/Declaratory Judgment","PLTF","TURLEY","MICHAEL","B."
