@@ -1,0 +1,21 @@
+"Chancery Court","05022023","CH-23-0594","JEROME T POPE V JACOLE E POPE","Divorce","CHAN","KYLE","JIM",
+"Chancery Court","05022023","CH-23-0594","JEROME T POPE V JACOLE E POPE","Divorce","PT","Part 2",,
+"Chancery Court","05022023","CH-23-0594","JEROME T POPE V JACOLE E POPE","Divorce","PLTF","POPE","JEROME","TIMOTHY"
+"Chancery Court","05022023","CH-23-0594","JEROME T POPE V JACOLE E POPE","Divorce","DEFT","POPE","JACOLE","ENDREA"
+"Chancery Court","05022023","CH-23-0595","KATHRYN L ELLIOTT V TIMOTHY S ELLIOTT","Divorces with Children","PATY","BREAKSTONE","STUART","B"
+"Chancery Court","05022023","CH-23-0595","KATHRYN L ELLIOTT V TIMOTHY S ELLIOTT","Divorces with Children","CHAN","KYLE","JIM",
+"Chancery Court","05022023","CH-23-0595","KATHRYN L ELLIOTT V TIMOTHY S ELLIOTT","Divorces with Children","PT","Part 2",,
+"Chancery Court","05022023","CH-23-0595","KATHRYN L ELLIOTT V TIMOTHY S ELLIOTT","Divorces with Children","PATY","Stanford","Morgan","Nicole"
+"Chancery Court","05022023","CH-23-0595","KATHRYN L ELLIOTT V TIMOTHY S ELLIOTT","Divorces with Children","DEFT","ELLIOTT","TIMOTHY","STEPHEN"
+"Chancery Court","05022023","CH-23-0595","KATHRYN L ELLIOTT V TIMOTHY S ELLIOTT","Divorces with Children","PLTF","ELLIOTT","KATHRYN","LAWRENCE"
+"Chancery Court","05022023","CH-23-0596","THOMAS (NMN) BROWN V NANDI (NMN) BROWN","Divorces with Children","CHAN","KYLE","JIM",
+"Chancery Court","05022023","CH-23-0596","THOMAS (NMN) BROWN V NANDI (NMN) BROWN","Divorces with Children","PT","Part 2",,
+"Chancery Court","05022023","CH-23-0596","THOMAS (NMN) BROWN V NANDI (NMN) BROWN","Divorces with Children","PATY","COLLINS","JONATHAN",
+"Chancery Court","05022023","CH-23-0596","THOMAS (NMN) BROWN V NANDI (NMN) BROWN","Divorces with Children","DEFT","BROWN","NANDI",
+"Chancery Court","05022023","CH-23-0596","THOMAS (NMN) BROWN V NANDI (NMN) BROWN","Divorces with Children","PLTF","BROWN","THOMAS",
+"Chancery Court","05022023","CH-23-0597","JENNIFER M DEMILIO V PETER F DEMILIO","Divorces with Children","PATY","PUTNAM","RACHAEL","E"
+"Chancery Court","05022023","CH-23-0597","JENNIFER M DEMILIO V PETER F DEMILIO","Divorces with Children","PT","Part 1",,
+"Chancery Court","05022023","CH-23-0597","JENNIFER M DEMILIO V PETER F DEMILIO","Divorces with Children","PATY","FLANAGAN","HALLIE","G"
+"Chancery Court","05022023","CH-23-0597","JENNIFER M DEMILIO V PETER F DEMILIO","Divorces with Children","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","05022023","CH-23-0597","JENNIFER M DEMILIO V PETER F DEMILIO","Divorces with Children","DEFT","DEMILIO","PETER","FRANKLIN"
+"Chancery Court","05022023","CH-23-0597","JENNIFER M DEMILIO V PETER F DEMILIO","Divorces with Children","PLTF","DEMILIO","JENNIFER","MARGARET"
