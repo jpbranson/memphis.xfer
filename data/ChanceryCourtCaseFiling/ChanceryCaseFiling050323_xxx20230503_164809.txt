@@ -1,0 +1,56 @@
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","SHELBY COUNTY GOVERNMENT",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF MILLINGTON",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PAY","SHELBY COUNTY TRUSTEE",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PATY","NOEL","ELIJAH",
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PATY","GALLAGHER","GREGORY","S"
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PATY","CHILDRESS","KEVIN","E"
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF GERMANTOWN",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF BARTLETT",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF LAKELAND",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PAY","TREASURER CITY OF MEMPHIS",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PAY","SHELBY COUNTY CHANCERY COURT CLERK AND MASTER",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","STATE OF TENNESSEE",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF ARLINGTON, TENNESSEE",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF COLLIERVILLE",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PAY","SHELBY COUNTY REGISTER OF DEEDS,",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","CHAN","KYLE","JIM",
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PT","Part 2",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PLTF","CITY OF MEMPHIS",,
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PATY","KOELBL","THOMAS",
+"Chancery Court","05032023","0935170E000190","7086 HILLSHIRE","Collection of Delinquent Taxes","PUR","LEHRER","MARK",
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","PATY","LENOW","EDWIN","C"
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","PT","Part 3",,
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","PLTF","ARNOLD","MARK","A"
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","DEFT","ARNOLD","AARON","W"
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","DEFT","ARNOLD","JERRY","I"
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","DEFT","MENDONCA","KRISTEN",
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","DEFT","ARNOLD","BRADEN",
+"Chancery Court","05032023","CH-23-0599","MARK A. ARNOLD VS AARON W. ARNOLD ET AL","Real Estate Matter","DEFT","ARNOLD","LILLY","M"
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","PATY","MYERS","RICHARD","J"
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","CHAN","KYLE","JIM",
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","PT","Part 2",,
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","PLTF","LKP TN PROPERTY LLC, a Nevada Limited Liability Company",,
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","DEFT","PARHAM","ANNIE","BERTHA"
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","DEFT","DAVIDSON","ALEXIS",
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","DEFT","SANDERS","LESTER",
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","DEFT","PARHAM","MARIO",
+"Chancery Court","05032023","CH-23-0600","LKP TN PROPERTY V ANNIE B PARHAM ET AL","Complaint for Partition","DEFT","PARHAM","TANYA",
+"Chancery Court","05032023","CH-23-0601","SHARICKA LYNN EZELL VS JOSE CARLOS BORROTO","Divorce","CHAN","KYLE","JIM",
+"Chancery Court","05032023","CH-23-0601","SHARICKA LYNN EZELL VS JOSE CARLOS BORROTO","Divorce","PT","Part 2",,
+"Chancery Court","05032023","CH-23-0601","SHARICKA LYNN EZELL VS JOSE CARLOS BORROTO","Divorce","PLTF","EZELL","SHARICKA","LYNN"
+"Chancery Court","05032023","CH-23-0601","SHARICKA LYNN EZELL VS JOSE CARLOS BORROTO","Divorce","DEFT","BORROTO","JOSE","CARLOS"
+"Chancery Court","05032023","CH-23-0602","HARIM I SALAZAR BALDERAS V YAZMIN GRAPENGIESSER","Divorce","PATY","FEILD","JOHN","A"
+"Chancery Court","05032023","CH-23-0602","HARIM I SALAZAR BALDERAS V YAZMIN GRAPENGIESSER","Divorce","PT","Part 3",,
+"Chancery Court","05032023","CH-23-0602","HARIM I SALAZAR BALDERAS V YAZMIN GRAPENGIESSER","Divorce","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","05032023","CH-23-0602","HARIM I SALAZAR BALDERAS V YAZMIN GRAPENGIESSER","Divorce","PLTF","ZALAZAR","HARIM","IVAM"
+"Chancery Court","05032023","CH-23-0602","HARIM I SALAZAR BALDERAS V YAZMIN GRAPENGIESSER","Divorce","DEFT","GRAPENGIESSER","YAZMIN",
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","PATY","CANTORA","MARK",
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","PT","Part 1",,
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","PLTF","FIDELITY BANK",,
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","DEFT","GMAC MORTGAGE CORPORATION DBA DITECH.COM",,
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","DEFT","ALLY FINANCIAL INC (POTENTIAL SUCCESSOR-IN-INTEREST TO GMAC",,
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","DEFT","ALSUP","JOEL",
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","DEFT","KUNZ","LEE ANN",
+"Chancery Court","05032023","CH-23-0603","FIDELITY BANK V GMAC MORTGAGE GO ET AL","Pet/Quiet Title/Remove Cloud","DEFT","SPRING EQ LLC",,
