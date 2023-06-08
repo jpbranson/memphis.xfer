@@ -1,0 +1,8 @@
+"Chancery Court","06082023","CH-23-0782","TAMMY BRADFORD V EDWARD R DAVIS","Comp/Declaratory Judgment","PATY","MEREDITH","BRYAN",
+"Chancery Court","06082023","CH-23-0782","TAMMY BRADFORD V EDWARD R DAVIS","Comp/Declaratory Judgment","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","06082023","CH-23-0782","TAMMY BRADFORD V EDWARD R DAVIS","Comp/Declaratory Judgment","DEFT","DAVIS","EDWARD",
+"Chancery Court","06082023","CH-23-0782","TAMMY BRADFORD V EDWARD R DAVIS","Comp/Declaratory Judgment","PLTF","BRADFORD","TAMMY",
+"Chancery Court","06082023","CH-23-0783","TREVON M MANNING V CARRIE I MANNING","Divorces with Children","CHAN","KYLE","JIM",
+"Chancery Court","06082023","CH-23-0783","TREVON M MANNING V CARRIE I MANNING","Divorces with Children","PT","Part 2",,
+"Chancery Court","06082023","CH-23-0783","TREVON M MANNING V CARRIE I MANNING","Divorces with Children","PLTF","MANNING","TREVON","MARQUEZ"
+"Chancery Court","06082023","CH-23-0783","TREVON M MANNING V CARRIE I MANNING","Divorces with Children","DEFT","MANNING","CARRIE","IMAN"
