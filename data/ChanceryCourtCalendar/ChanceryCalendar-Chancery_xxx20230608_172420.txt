@@ -1,0 +1,6 @@
+"Chancery Court","CH-17-0512","GTD SOLUTIONS, LLC V CS3 INC","Complaint for Damages","HEARING",06/14/2023,"10:30:00","DATY","STENGEL","ELIZABETH","B","1","PART 1"
+"Chancery Court","CH-17-0512","GTD SOLUTIONS, LLC V CS3 INC","Complaint for Damages","HEARING",06/14/2023,"10:30:00","DATY","YOAKUM","BRIAN","L","1","PART 1"
+"Chancery Court","CH-17-0512","GTD SOLUTIONS, LLC V CS3 INC","Complaint for Damages","HEARING",06/14/2023,"10:30:00","DEFT","INC.","CS3,",,"1","PART 1"
+"Chancery Court","CH-17-0512","GTD SOLUTIONS, LLC V CS3 INC","Complaint for Damages","HEARING",06/14/2023,"10:30:00","PATY","CRONE","ALAN","G","1","PART 1"
+"Chancery Court","CH-17-0512","GTD SOLUTIONS, LLC V CS3 INC","Complaint for Damages","HEARING",06/14/2023,"10:30:00","PATY","DORSEY","BAILEY",,"1","PART 1"
+"Chancery Court","CH-17-0512","GTD SOLUTIONS, LLC V CS3 INC","Complaint for Damages","HEARING",06/14/2023,"10:30:00","PLTF","SOLUTIONS, LLC","GTD",,"1","PART 1"
