@@ -1,0 +1,14 @@
+"Chancery Court","07052023","CH-23-0895","FAIRCASHDEAL VS PATRICIA YOUNG","Comp/Specific Performance","PATY","MCNARY","BRANDON","F"
+"Chancery Court","07052023","CH-23-0895","FAIRCASHDEAL VS PATRICIA YOUNG","Comp/Specific Performance","PT","Part 3",,
+"Chancery Court","07052023","CH-23-0895","FAIRCASHDEAL VS PATRICIA YOUNG","Comp/Specific Performance","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","07052023","CH-23-0895","FAIRCASHDEAL VS PATRICIA YOUNG","Comp/Specific Performance","PLTF","FAIRCASHDEAL, GP",,
+"Chancery Court","07052023","CH-23-0895","FAIRCASHDEAL VS PATRICIA YOUNG","Comp/Specific Performance","DEFT","YOUNG","PATRICIA",
+"Chancery Court","07052023","CH-23-0896","IN THE MATTER KAI REMON OWENS","Pet. for Name Change","PT","Part 3",,
+"Chancery Court","07052023","CH-23-0896","IN THE MATTER KAI REMON OWENS","Pet. for Name Change","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","07052023","CH-23-0896","IN THE MATTER KAI REMON OWENS","Pet. for Name Change","PETR","OWENS","KAI","REMON"
+"Chancery Court","07052023","CH-23-0897","REED JOEL SPICER VS HALEY NICOLE SPICER","Divorces with Children","PATY","FISHMAN","RANDALL","J"
+"Chancery Court","07052023","CH-23-0897","REED JOEL SPICER VS HALEY NICOLE SPICER","Divorces with Children","CHAN","KYLE","JIM",
+"Chancery Court","07052023","CH-23-0897","REED JOEL SPICER VS HALEY NICOLE SPICER","Divorces with Children","PT","Part 2",,
+"Chancery Court","07052023","CH-23-0897","REED JOEL SPICER VS HALEY NICOLE SPICER","Divorces with Children","PATY","VIVAR-ALCALDE","ADRIAN",
+"Chancery Court","07052023","CH-23-0897","REED JOEL SPICER VS HALEY NICOLE SPICER","Divorces with Children","PLTF","SPICER","REED","JOEL"
+"Chancery Court","07052023","CH-23-0897","REED JOEL SPICER VS HALEY NICOLE SPICER","Divorces with Children","DEFT","SPICER","HALEY","NICOLE"
