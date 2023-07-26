@@ -1,0 +1,13 @@
+"Chancery Court","07262023","CH-23-0977","IMPERIAL COURT, ET AL V ANCIENT EGYPTIAN, ET AL","Comp/Declaratory Judgment","PATY","HAGERMAN","JENNIFER","SHORB"
+"Chancery Court","07262023","CH-23-0977","IMPERIAL COURT, ET AL V ANCIENT EGYPTIAN, ET AL","Comp/Declaratory Judgment","PT","Part 3",,
+"Chancery Court","07262023","CH-23-0977","IMPERIAL COURT, ET AL V ANCIENT EGYPTIAN, ET AL","Comp/Declaratory Judgment","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","07262023","CH-23-0977","IMPERIAL COURT, ET AL V ANCIENT EGYPTIAN, ET AL","Comp/Declaratory Judgment","PATY","STUART","SARAH","ELIZABETH"
+"Chancery Court","07262023","CH-23-0997","SHEILA TAYLOR V DARON L TAYLOR","Divorce","CHAN","KYLE","JIM",
+"Chancery Court","07262023","CH-23-0997","SHEILA TAYLOR V DARON L TAYLOR","Divorce","PT","Part 2",,
+"Chancery Court","07262023","CH-23-0997","SHEILA TAYLOR V DARON L TAYLOR","Divorce","PATY","BEASLEY","SKYLAR",
+"Chancery Court","07262023","CH-23-0997","SHEILA TAYLOR V DARON L TAYLOR","Divorce","PLTF","TAYLOR","SHEILA",
+"Chancery Court","07262023","CH-23-0997","SHEILA TAYLOR V DARON L TAYLOR","Divorce","DEFT","TAYLOR","DARON","LEON"
+"Chancery Court","07262023","CH-23-0998","KEQUON R MOTEN V JAHLISIA MOTEN","Divorces with Children","CHAN","KYLE","JIM",
+"Chancery Court","07262023","CH-23-0998","KEQUON R MOTEN V JAHLISIA MOTEN","Divorces with Children","PT","Part 2",,
+"Chancery Court","07262023","CH-23-0998","KEQUON R MOTEN V JAHLISIA MOTEN","Divorces with Children","PLTF","MOTEN","KEQUON","RONTA"
+"Chancery Court","07262023","CH-23-0998","KEQUON R MOTEN V JAHLISIA MOTEN","Divorces with Children","DEFT","MOTEN","JAHLISIA",
