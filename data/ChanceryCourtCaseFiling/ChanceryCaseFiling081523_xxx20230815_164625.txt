@@ -1,0 +1,13 @@
+"Chancery Court","08152023","CH-23-1083","STEPHANIE C WRAY BIRD V SETH A BIRD","Divorces with Children","PATY","JONES","JEFFREY",
+"Chancery Court","08152023","CH-23-1083","STEPHANIE C WRAY BIRD V SETH A BIRD","Divorces with Children","CHAN","KYLE","JIM",
+"Chancery Court","08152023","CH-23-1083","STEPHANIE C WRAY BIRD V SETH A BIRD","Divorces with Children","PT","Part 2",,
+"Chancery Court","08152023","CH-23-1083","STEPHANIE C WRAY BIRD V SETH A BIRD","Divorces with Children","PLTF","BIRD","STEPHANIE","CANDACE WRAY"
+"Chancery Court","08152023","CH-23-1083","STEPHANIE C WRAY BIRD V SETH A BIRD","Divorces with Children","DEFT","BIRD","SETH","ALLEN"
+"Chancery Court","08152023","CH-23-1084","SAMUEL LOUIS JOHNSON V CAITLAN JOHNSON","Divorces with Children","PATY","ESKINS","BRADLEY","W"
+"Chancery Court","08152023","CH-23-1084","SAMUEL LOUIS JOHNSON V CAITLAN JOHNSON","Divorces with Children","PT","Part 1",,
+"Chancery Court","08152023","CH-23-1084","SAMUEL LOUIS JOHNSON V CAITLAN JOHNSON","Divorces with Children","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","08152023","CH-23-1085","WINDSOR GROVE OWN ASSOC VS CAROL MYERS ET AL","Complaint for Damages","PATY","MCNARY","BRANDON","F"
+"Chancery Court","08152023","CH-23-1085","WINDSOR GROVE OWN ASSOC VS CAROL MYERS ET AL","Complaint for Damages","PT","Part 3",,
+"Chancery Court","08152023","CH-23-1085","WINDSOR GROVE OWN ASSOC VS CAROL MYERS ET AL","Complaint for Damages","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","08152023","CH-23-1085","WINDSOR GROVE OWN ASSOC VS CAROL MYERS ET AL","Complaint for Damages","PLTF","WINDSOR GROVE OWNERS ASSOCIAITON, INC.",,
+"Chancery Court","08152023","CH-23-1085","WINDSOR GROVE OWN ASSOC VS CAROL MYERS ET AL","Complaint for Damages","DEFT","MYERS","CAROL",
