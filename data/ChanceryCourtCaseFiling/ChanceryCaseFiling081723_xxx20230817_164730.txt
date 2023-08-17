@@ -1,0 +1,10 @@
+"Chancery Court","08172023","CH-23-1092","MAMAR HASSAN ALI VS ZAKARIA T ALKABSH","Complaint for Damages","PATY","WALLACE","BRIE","DANIELLE"
+"Chancery Court","08172023","CH-23-1092","MAMAR HASSAN ALI VS ZAKARIA T ALKABSH","Complaint for Damages","PT","Part 1",,
+"Chancery Court","08172023","CH-23-1092","MAMAR HASSAN ALI VS ZAKARIA T ALKABSH","Complaint for Damages","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","08172023","CH-23-1092","MAMAR HASSAN ALI VS ZAKARIA T ALKABSH","Complaint for Damages","PLTF","ALI","MAMAR","HASSAN"
+"Chancery Court","08172023","CH-23-1092","MAMAR HASSAN ALI VS ZAKARIA T ALKABSH","Complaint for Damages","PLTF","THE GASOLINE STORE",,
+"Chancery Court","08172023","CH-23-1092","MAMAR HASSAN ALI VS ZAKARIA T ALKABSH","Complaint for Damages","DEFT","ALKABSH","ZAKARIA","T"
+"Chancery Court","08172023","CH-23-1093","LAUREN E TULL V COREY B TULL","Divorces with Children","PATY","MALONE","TRACEY","P"
+"Chancery Court","08172023","CH-23-1093","LAUREN E TULL V COREY B TULL","Divorces with Children","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","08172023","CH-23-1093","LAUREN E TULL V COREY B TULL","Divorces with Children","PLTF","TULL","LAUREN","ELIZABETH"
+"Chancery Court","08172023","CH-23-1093","LAUREN E TULL V COREY B TULL","Divorces with Children","DEFT","TULL","COREY","BRANDON"
