@@ -1,0 +1,7 @@
+"Chancery Court","08212023","CH-23-1101","B&W ENG LAB V BLAYLOCK & BROWN CO","Contract Debt","PATY","JEWEL","GARY","L"
+"Chancery Court","08212023","CH-23-1101","B&W ENG LAB V BLAYLOCK & BROWN CO","Contract Debt","CHAN","KYLE","JIM",
+"Chancery Court","08212023","CH-23-1101","B&W ENG LAB V BLAYLOCK & BROWN CO","Contract Debt","PLTF","B & W ENGINEERING LABATORIES, INC",,
+"Chancery Court","08212023","CH-23-1101","B&W ENG LAB V BLAYLOCK & BROWN CO","Contract Debt","DEFT","BLAYLOCK  & BROWN CONTRUCTION, INC",,
+"Chancery Court","08212023","CH-23-1102","HUI LU PRUETT V SCOTTY TWITTY","Real Estate Matter","PATY","KROG","GREGORY","C"
+"Chancery Court","08212023","CH-23-1102","HUI LU PRUETT V SCOTTY TWITTY","Real Estate Matter","PT","Part 3",,
+"Chancery Court","08212023","CH-23-1102","HUI LU PRUETT V SCOTTY TWITTY","Real Estate Matter","CHAN","JENKINS","JOEDAE","L."
