@@ -1,0 +1,4 @@
+"Chancery Court","08312023","CH-23-1149","VIRGINIA L MILLS VEGO V DAVID R VEGO","Divorces with Children","PATY","LAMBERT","RACHEL","L"
+"Chancery Court","08312023","CH-23-1149","VIRGINIA L MILLS VEGO V DAVID R VEGO","Divorces with Children","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","08312023","CH-23-1149","VIRGINIA L MILLS VEGO V DAVID R VEGO","Divorces with Children","PLTF","VEGO","VIRGINIA","LYNN MILLS"
+"Chancery Court","08312023","CH-23-1149","VIRGINIA L MILLS VEGO V DAVID R VEGO","Divorces with Children","DEFT","VEGO","DAVID","ROSS"
