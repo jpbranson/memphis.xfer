@@ -1,0 +1,37 @@
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","SHELBY COUNTY GOVERNMENT",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF MILLINGTON",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PAY","SHELBY COUNTY TRUSTEE",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PATY","NOEL","ELIJAH",
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PATY","GALLAGHER","GREGORY","S"
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PATY","CHILDRESS","KEVIN","E"
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","DATY","WEISSMAN","LARRY","A"
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF GERMANTOWN",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF BARTLETT",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF LAKELAND",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PAY","TREASURER CITY OF MEMPHIS",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PAY","SHELBY COUNTY CHANCERY COURT CLERK AND MASTER",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","STATE OF TENNESSEE",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF ARLINGTON, TENNESSEE",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF COLLIERVILLE",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PAY","SHELBY COUNTY REGISTER OF DEEDS,",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","CHAN","KYLE","JIM",
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PT","Part 2",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PLTF","CITY OF MEMPHIS",,
+"Chancery Court","09262023","06007600000320","1384 MENAGER","Collection of Delinquent Taxes","PATY","KOELBL","THOMAS",
+"Chancery Court","09262023","CH-23-1249","LABORATORY CO OF AMERICA V MEMPHIS MEN'S CLINIC PC","Breach of Contract","PATY","HUFF","DAVID","OVERALL"
+"Chancery Court","09262023","CH-23-1249","LABORATORY CO OF AMERICA V MEMPHIS MEN'S CLINIC PC","Breach of Contract","CHAN","KYLE","JIM",
+"Chancery Court","09262023","CH-23-1249","LABORATORY CO OF AMERICA V MEMPHIS MEN'S CLINIC PC","Breach of Contract","PT","Part 2",,
+"Chancery Court","09262023","CH-23-1249","LABORATORY CO OF AMERICA V MEMPHIS MEN'S CLINIC PC","Breach of Contract","PLTF","LABORATORY CORPORATION OF AMERICA, a Delaware Corporation",,
+"Chancery Court","09262023","CH-23-1249","LABORATORY CO OF AMERICA V MEMPHIS MEN'S CLINIC PC","Breach of Contract","DEFT","MEMPHIS MEN'S CLINIC P.C.",,
+"Chancery Court","09262023","CH-23-1251","IN THE MATTER OF ELIZABETH NOELLE WUNDERLICH","Pet. for Name Change","CHAN","KYLE","JIM",
+"Chancery Court","09262023","CH-23-1251","IN THE MATTER OF ELIZABETH NOELLE WUNDERLICH","Pet. for Name Change","PT","Part 2",,
+"Chancery Court","09262023","CH-23-1251","IN THE MATTER OF ELIZABETH NOELLE WUNDERLICH","Pet. for Name Change","PETR","WUNDERLICH","ELIZABETH","NOELLE"
+"Chancery Court","09262023","CH-23-1252","DAVIS & DAVIS V JAMES WALLS, ET AL","Breach of Contract","PATY","Tansey","Nicholas",
+"Chancery Court","09262023","CH-23-1252","DAVIS & DAVIS V JAMES WALLS, ET AL","Breach of Contract","CHAN","JENKINS","JOEDAE","L."
+"Chancery Court","09262023","CH-23-1252","DAVIS & DAVIS V JAMES WALLS, ET AL","Breach of Contract","PLTF","DAVIS & DAVIS, INC.",,
+"Chancery Court","09262023","CH-23-1252","DAVIS & DAVIS V JAMES WALLS, ET AL","Breach of Contract","DEFT","WALLS","JAMES",
+"Chancery Court","09262023","CH-23-1252","DAVIS & DAVIS V JAMES WALLS, ET AL","Breach of Contract","DEFT","MILLS","CAROLYN",
+"Chancery Court","09262023","CH-23-1254","JUSTINA D PICKENS V RODNEY D LACEY","Divorce","PT","Part 1",,
+"Chancery Court","09262023","CH-23-1254","JUSTINA D PICKENS V RODNEY D LACEY","Divorce","CHAN","TAYLOR JEFFERSON","MELANIE",
+"Chancery Court","09262023","CH-23-1254","JUSTINA D PICKENS V RODNEY D LACEY","Divorce","PLTF","PICKENS","JUSTINA","DE'VONNE"
+"Chancery Court","09262023","CH-23-1254","JUSTINA D PICKENS V RODNEY D LACEY","Divorce","DEFT","LACEY","RODNEY","DEWAYNE"
